@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@openai/agents": "^0.0.17",
+    "dotenv": "^16.4.5",
+    "openai": "^4.57.0",
+    "zod": "^3.25.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0",
+    "chrome-remote-interface": "^0.33.3",
+    "playwright": "^1.55.0"
+  },
+  "scripts": {}
+}
